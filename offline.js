@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736142390,
+	"version": 1736145033,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,16 @@
 		"media/yayyy.ogg",
 		"media/wilhelm scream.m4a",
 		"media/wilhelm scream.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
+		"media/red light green light  - 1.m4a",
+		"media/red light green light  - 1.ogg",
+		"media/red light green light  - 2.m4a",
+		"media/red light green light  - 2.ogg",
+		"media/walk.m4a",
+		"media/walk.ogg",
+		"media/yes - game won.m4a",
+		"media/yes - game won.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
