@@ -1,0 +1,32 @@
+﻿{
+	"version": 1736142390,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/m-sheet0.png",
+		"images/m-sheet1.png",
+		"images/play-sheet0.png",
+		"images/droneshoothowto-sheet0.png",
+		"images/droneshoothowto-sheet1.png",
+		"images/droneshoothowto-sheet2.png",
+		"images/blackdot0ff1f-sheet0.png",
+		"images/dollhead-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/boundaryline-sheet0.png",
+		"images/guard-sheet0.png",
+		"media/shoot-6-81136.m4a",
+		"media/shoot-6-81136.ogg",
+		"media/yayyy.m4a",
+		"media/yayyy.ogg",
+		"media/wilhelm scream.m4a",
+		"media/wilhelm scream.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
