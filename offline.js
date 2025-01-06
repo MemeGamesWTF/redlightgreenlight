@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736145033,
+	"version": 1736154277,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,6 @@
 		"images/droneshoothowto-sheet0.png",
 		"images/droneshoothowto-sheet1.png",
 		"images/droneshoothowto-sheet2.png",
-		"images/blackdot0ff1f-sheet0.png",
 		"images/dollhead-sheet0.png",
 		"images/bg-sheet0.png",
 		"images/boundaryline-sheet0.png",
