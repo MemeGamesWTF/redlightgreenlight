@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736155685,
+	"version": 1736156975,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,8 @@
 		"media/walk.ogg",
 		"media/yes - game won.m4a",
 		"media/yes - game won.ogg",
+		"media/red light green light  - bgm.m4a",
+		"media/red light green light  - bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
